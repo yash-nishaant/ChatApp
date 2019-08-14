@@ -1,6 +1,6 @@
 ## About ChatApp
 
-> A simple live chat application designed using Vue for front-end and Laravel for back-end. Please Note: This project was created with the primary objective in mind of demonstrating competency with Laravel events and broadcasting and the basics of Vue (building a simple SPA using multiple Vue components)
+A simple live chat application designed using Vue for front-end and Laravel for back-end. Please Note: This project was created with the primary objective in mind of demonstrating competency with Laravel events and broadcasting and the basics of Vue (building a simple SPA using multiple Vue components)
 
 ## Instructions
 
@@ -11,6 +11,7 @@
 5. Set your database credentials in the `.env` file.
 6. `php artisan migrate` to get all migrations into database.
 6. Set your Pusher credentials in the `.env` file.
+7. `php artisan serve`.
 7. Enjoy!
 
 
