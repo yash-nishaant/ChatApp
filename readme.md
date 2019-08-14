@@ -1,6 +1,6 @@
 ## About ChatApp
 
-> A simple live chat application designed using Vue for front-end and Laravel for back-end. Please Note: This project was created with the primary objective in mind of demonstrating competency with Laravel events and broadcasting, as well as building a simple SPA using multiple vue components.  
+> A simple live chat application designed using Vue for front-end and Laravel for back-end. Please Note: This project was created with the primary objective in mind of demonstrating competency with Laravel events and broadcasting and the basics of Vue (building a simple SPA using multiple Vue components)
 
 ## Instructions
 
