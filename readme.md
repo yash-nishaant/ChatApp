@@ -10,9 +10,9 @@ A simple live chat application designed using Vue for front-end and Laravel for 
 4. `php artisan key:generate` to creat application key.
 5. Set your database credentials in the `.env` file.
 6. `php artisan migrate` to get all migrations into database.
-6. Set your Pusher credentials in the `.env` file.
-7. `php artisan serve`.
-7. Enjoy!
+7. Set your Pusher credentials in the `.env` file.
+8. `php artisan serve`.
+9. Enjoy!
 
 
 
